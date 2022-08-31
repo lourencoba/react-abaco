@@ -1,2 +1,2 @@
 # react-abaco
-Abaco made with ReactJS
+Abaco made in ReactJS
